@@ -1,6 +1,6 @@
 ---
 title: "Roses in the garden"
-excerpt: "Roses after a rainy day (20190728) <br/><img src='/images/rózsák.jpg'>"
+excerpt: "Roses after a rainy day (20190728) <br/><img src='/images/roses.jpg'>"
 collection: portfolio
 ---
 
