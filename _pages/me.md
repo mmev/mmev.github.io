@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-## This is a side about me
+## A little bit more about me
 ----
 
 You can find me [at work](https://www.cl.uni-heidelberg.de/~mujdricz/) :) at the Department of Computational Linguistics, University Heidelberg.
