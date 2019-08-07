@@ -1,9 +1,9 @@
 ---
 title: "Teaching experience"
-collection: teaching
-#type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University of Heidelberg, Department of Computational Linguistics"
+#collection: teaching
+#type: "Lecturer"
+#permalink: /teaching/2015-spring-teaching-1
+#venue: "University of Heidelberg, Department of Computational Linguistics"
 #date: 2015-01-01
 #location: "City, Country"
 ---
