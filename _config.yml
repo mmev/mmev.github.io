@@ -4,6 +4,7 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
+# Validator https://codebeautify.org/yaml-validator
 
 # Site Settings
 locale                   : "de-DE"
@@ -14,7 +15,7 @@ description              : &description "Computational linguist"
 url                      : "https://mmev.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mmev.github.io"
-teaser                   : "images/foo-bar-identity-th.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "images/foo-bar-identity-th.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
