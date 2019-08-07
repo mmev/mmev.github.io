@@ -11,7 +11,7 @@ title                    : "Éva Mújdricza-Maydt"
 title_separator          : "-"
 name                     : &name "Éva Mújdricza-Maydt"
 description              : &description "Computational linguist"
-url                      : https://mmev.github.io 
+url                      : "https://mmev.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mmev.github.io"
 teaser                   : "images/foo-bar-identity-th.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  false #"google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false #"google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : mujdricza@web.de
+  email            : "mujdricza@web.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
