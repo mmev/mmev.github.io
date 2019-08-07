@@ -15,7 +15,7 @@ description              : &description "Computational linguist"
 url                      : "https://mmev.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mmev.github.io"
-teaser                   : "foo-bar-identity-th.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -67,8 +67,8 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : University of Heidelberg # Person or Organization (defaults to Person)
+  name                   : Department of Computational Linguistics # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Éva Mújdricza-Maydt"
   avatar           : "Eva_Foto.png"
-  bio              : "Computational linguist"
+  bio              : "Computational linguist @ [ICL-UHD](https://www.cl.uni-heidelberg.de/)"
   location         : "Heidelberg"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
