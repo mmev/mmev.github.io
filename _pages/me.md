@@ -15,4 +15,4 @@ In my spare time, I go dancing:
 * leading the group of the [KUZ](https://www.kuz-heidelberg.de/html/content/tanzen.html) with my husband
 * in the dance club [TSC Couronne](https://www.tsc-couronne.de/)
 
-At weekends, I go into our garden for handweeding, or cutting fruit trees :)
+At weekends, I cook, go out into our garden for handweeding, or cutting fruit trees :)
