@@ -59,7 +59,7 @@ redirect_from:
 
 ## Publications
 
-  \faLink [please follow the link](https://www.cl.uni-heidelberg.de/~mujdricz/publications/)
+   [please follow the link](https://www.cl.uni-heidelberg.de/~mujdricz/publications/)
   
 
   
