@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "(Short) CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,53 +10,61 @@ redirect_from:
 {% include base_path %}
 
 
-## Under Construction
+(Under Construction)
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Work experience
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 09.2013-current Ph.D at Department of Computational Linguistics (ICL), University of Heidelberg (UHD), Germany; in Semantic Role Labeling
+* 09.2013-08.2019 Lecturer at ICL-UHD
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Education
+
+* 2005-2013 B.A. and M.A. in *Computational Linguistics*, ICL-UHD 
+* 1999-2008 M.A. in *German* and *Hungarian Studies* in Pázmány Péter Catholic University, Piliscsaba (Hungary)
+
+## Projects ans training
+
+* 2015-2019 *AIPHES* (Adaptive Preparation of Information from Heterogeneous Sources) *Associated Researcher*
+* 2013-2016 CLARIN-D (Common Language Resources and Technology Infrastructure Deutschland) Curation project *Semantic Annotation for Digital Humanities*
+* 2015 LxMLS (Lisbon Machine Learning School) with Google-Intership 
+* 2013 EXCITEMENT Fall School
+
+
+## Skills
+
+### Programming and CL
+* Programming: Python, Java
+* Machine Learning
+   * numpy, tensorflow, matplotlib
+   * NLTK, Stanford NLP, Weka, MATE, ...
+* Data Formats
+   * XML, DTD, HTML, JSON, csv, graphML, binary
+* Versioning
+   * git, svn
+* Editors, IDEs
+    * bash, vi, LaTeX, BibTex
+    * IDEs: PyCharm, Netbeans, Eclipse
+* Annotation
+    * e.g. WebAnno
+
+### Language skills
+* Hungarian: mother tongue
+* German: business fluent (C1)
+* English: fluent (B2)
+
+### More
+* driving licence (class B)
+* type writing
+
+## Publications
+
+  \faLink [please follow the link](https://www.cl.uni-heidelberg.de/~mujdricz/publications/)
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Teaching
+
+  \faLink [please follow the link](https://www.cl.uni-heidelberg.de/~mujdricz/teaching/)
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
