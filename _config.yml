@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Éva Mújdricza-Maydt"
-  avatar           : "Eva_Foto.png"
+  avatar           : "190809-04-08_crop-small.png" #"Eva_Foto.png"
   bio              : "Computational linguist <br/> @ <a href='https://www.cl.uni-heidelberg.de/'>ICL-UHD</a>"
   location         : "Heidelberg"
   employer         :
